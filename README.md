@@ -5,8 +5,12 @@ A MiniZinc project based on optimization problem, done during the Artificial Int
 Disaster Loss Minimizer is an intelligent machine that will reduce the amount the loss during any kind of disaster. Geographically, we are in a region of disasters like – Flood, Cyclones etc. And whenever any disaster occurs, a huge number of people suffer – losing both shelter and belongings. They have to move leaving most of their belongings; also, during these disasters, many government and non-government organizations face a great loss. Our goal is to minimize the loss as much as possible – one way of that is to carry most valuable things as many as possible. Our agent will do exactly that, depending on capacity and the economical values of the things, it will suggest those things that are most valuable.
 
 # Description
-## Relief Supply
-Analyzing the scenario, it is easy to depict that one of the problems during the disasters is – people have to move to a shelter for safety reasons and they cannot take
+It has three parts - 
+- rescue people who are at the danger zone to a shelter
+- carry goods (of higher precedence) to a safe place
+- supply relief to those people who got stuck during the disaster
+
+Analyzing the scenario, it is easy to depict that one of the major problems during the disasters is – people have to move to a shelter for safety reasons and they cannot take
 everything that belong to them. As a result, many valuable things wash away or get destroyed. Besides, there are few elementary things that are very much needed at that
 time, like dry food and dry clothes; so, these things should be taken despite of having lesser economic values. Also, there are other things to consider as well – like capacity, preferences, type of belongings etc. What our machine will do is –
 - It will take the list of accessories as input
