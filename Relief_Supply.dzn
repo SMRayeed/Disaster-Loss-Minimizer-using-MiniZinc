@@ -1,0 +1,12 @@
+middle_age_men = 2 ;
+middle_age_women = 3 ;
+aged_men = 1 ;
+aged_women = 1 ;
+teenagers = 3 ;
+child = 5 ;
+
+% we have considered = wheat, egg, lentil, chicken, rice
+calorie_ingrediants = 5;
+calorie_ingrediants_price_per_unit = [60,115,125,175,60];
+calorie_ingrediants_offered_calories_per_unit = [3400,1500,1160,4500,3400];
+calorie_ingrediants_availability_per_unit = [10, 10, 10, 10, 10];

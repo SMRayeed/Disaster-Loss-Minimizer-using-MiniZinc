@@ -1,0 +1,8 @@
+truck = 1 ;
+pickup = 3 ;
+people = 30 ;
+
+family_equipments = 10 ;
+family_equipments_price_per_unit = [50, 60, 45, 200, 70, 300, 25, 50, 75, 80] ;
+family_equipments_weight_in_kg = [20, 10, 33, 21, 22, 25, 54, 32, 7, 2] ;
+family_equipments_priority = [1, 2, 1, 1, 1, 5, 1, 1, 1, 2];

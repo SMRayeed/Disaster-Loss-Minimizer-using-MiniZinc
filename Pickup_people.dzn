@@ -1,0 +1,7 @@
+stations = 5 ;
+
+capacity = 1000;
+
+people_waiting = [400, 420, 240, 250, 300] ;
+
+stations_priority = [2, 1, 1, 1, 3] ;
