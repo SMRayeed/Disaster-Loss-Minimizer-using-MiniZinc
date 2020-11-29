@@ -1,0 +1,1 @@
+# Disaster-Loss-Minimizer-using-MiniZinc
